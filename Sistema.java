@@ -71,4 +71,20 @@ public class Sistema {
         }
         return x;
     }
+
+   /*  public boolean ordinaPianeti(){
+
+        double min;
+         for (int i = 0; i < corpicelesti.size(); i++) {
+
+            if (corpicelesti.get(i) instanceof Pianeta){
+
+                 min = corpicelesti.get(i).getDistanzaStella();
+
+                 
+
+            }
+            
+        }
+    }*/
 }
